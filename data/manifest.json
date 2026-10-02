@@ -1,0 +1,17 @@
+{
+  "game_version": "12.4.3-r2-15ff1e4d",
+  "original": {
+    "X-Plane.exe": "2ca099b7c6b218e78d02bdbe298be2aebf670b67c5adff827449b065e1107936",
+    "Resources/text/Chinese.txt": "55148eb72c99a5fb2b00db1ba033972b242cdb79f6e5d661133bb62a48189485"
+  },
+  "installed": {
+    "X-Plane.exe": "e2710553597ffa6503ebce7dc8515743041433f65ebf4bef84a8d1719e43618b",
+    "Resources/text/Chinese.txt": "d302298c3744a54b33dc6155e5d2db292ab84e1959e7c5c8fb4cdb0a545c9df7"
+  },
+  "scope": "Chinese UI; bilingual commands, failures, and data output labels",
+  "data_output_order": "English (中文)",
+  "patch_version": "1.0.0",
+  "dictionary_entries": 12299,
+  "overlay_entries": 7869,
+  "bilingual_entries": 5298
+}

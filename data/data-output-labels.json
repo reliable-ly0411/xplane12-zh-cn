@@ -1,0 +1,1213 @@
+[
+  {
+    "index": 0,
+    "pointer_offset": 49441120,
+    "original_va": 5409760920,
+    "label": "Frame rate",
+    "chinese": "帧率"
+  },
+  {
+    "index": 1,
+    "pointer_offset": 49441128,
+    "original_va": 5409760932,
+    "label": "Times",
+    "chinese": "时间"
+  },
+  {
+    "index": 2,
+    "pointer_offset": 49441136,
+    "original_va": 5409760944,
+    "label": "Sim stats",
+    "chinese": "模拟统计"
+  },
+  {
+    "index": 3,
+    "pointer_offset": 49441144,
+    "original_va": 5409760956,
+    "label": "Speeds",
+    "chinese": "速度"
+  },
+  {
+    "index": 4,
+    "pointer_offset": 49441152,
+    "original_va": 5409760968,
+    "label": "Mach, VVI, G-load",
+    "chinese": "马赫数、垂直速度与过载"
+  },
+  {
+    "index": 5,
+    "pointer_offset": 49441160,
+    "original_va": 5409760992,
+    "label": "Angle of attack, sideslip, & paths",
+    "chinese": "迎角、侧滑角与航迹"
+  },
+  {
+    "index": 6,
+    "pointer_offset": 49441168,
+    "original_va": 5409761032,
+    "label": "Pitch, roll, & headings",
+    "chinese": "俯仰、滚转与航向"
+  },
+  {
+    "index": 7,
+    "pointer_offset": 49441176,
+    "original_va": 5409761056,
+    "label": "Latitude, longitude, & altitude",
+    "chinese": "纬度、经度与高度"
+  },
+  {
+    "index": 8,
+    "pointer_offset": 49441184,
+    "original_va": 5409761088,
+    "label": "Location, velocity, & distance traveled",
+    "chinese": "位置、速度与已飞距离"
+  },
+  {
+    "index": 9,
+    "pointer_offset": 49441192,
+    "original_va": 5409761128,
+    "label": "Angular accelerations",
+    "chinese": "角加速度"
+  },
+  {
+    "index": 10,
+    "pointer_offset": 49441200,
+    "original_va": 5409761152,
+    "label": "Angular velocities",
+    "chinese": "角速度"
+  },
+  {
+    "index": 11,
+    "pointer_offset": 49441208,
+    "original_va": 5409761176,
+    "label": "Aircraft METAR vis/baro/temp/precip",
+    "chinese": "机位 METAR 能见度／气压／温度／降水"
+  },
+  {
+    "index": 12,
+    "pointer_offset": 49441216,
+    "original_va": 5409761216,
+    "label": "Aircraft METAR clouds/winds 1",
+    "chinese": "机位 METAR 云层／风 1"
+  },
+  {
+    "index": 13,
+    "pointer_offset": 49441224,
+    "original_va": 5409761248,
+    "label": "Aircraft METAR clouds/winds 2",
+    "chinese": "机位 METAR 云层／风 2"
+  },
+  {
+    "index": 14,
+    "pointer_offset": 49441232,
+    "original_va": 5409761280,
+    "label": "Aircraft METAR clouds/winds 3",
+    "chinese": "机位 METAR 云层／风 3"
+  },
+  {
+    "index": 15,
+    "pointer_offset": 49441240,
+    "original_va": 5409761312,
+    "label": "Aircraft point weather temp/press",
+    "chinese": "机位实时天气温度／气压"
+  },
+  {
+    "index": 16,
+    "pointer_offset": 49441248,
+    "original_va": 5409761352,
+    "label": "Aircraft point weather precip/wind",
+    "chinese": "机位实时天气降水／风"
+  },
+  {
+    "index": 17,
+    "pointer_offset": 49441256,
+    "original_va": 5409761392,
+    "label": "Aircraft runway conditions",
+    "chinese": "飞机所在跑道状态"
+  },
+  {
+    "index": 18,
+    "pointer_offset": 49441264,
+    "original_va": 5409761424,
+    "label": "Weight and balance",
+    "chinese": "重量与平衡"
+  },
+  {
+    "index": 19,
+    "pointer_offset": 49441272,
+    "original_va": 5409761448,
+    "label": "Payload weights",
+    "chinese": "有效载荷重量"
+  },
+  {
+    "index": 20,
+    "pointer_offset": 49441280,
+    "original_va": 5409761464,
+    "label": "Fuel weights",
+    "chinese": "燃油重量"
+  },
+  {
+    "index": 21,
+    "pointer_offset": 49441288,
+    "original_va": 5409761480,
+    "label": "Fuel temperature at tanks",
+    "chinese": "油箱燃油温度"
+  },
+  {
+    "index": 22,
+    "pointer_offset": 49441296,
+    "original_va": 5409761512,
+    "label": "Joystick aileron/elevator/rudder",
+    "chinese": "摇杆副翼／升降舵／方向舵输入"
+  },
+  {
+    "index": 23,
+    "pointer_offset": 49441304,
+    "original_va": 5409761552,
+    "label": "Servo aileron/elevator/rudders",
+    "chinese": "伺服副翼／升降舵／方向舵"
+  },
+  {
+    "index": 24,
+    "pointer_offset": 49441312,
+    "original_va": 5409761584,
+    "label": "Artificial stability aileron/elevator/rudder",
+    "chinese": "人工增稳副翼／升降舵／方向舵"
+  },
+  {
+    "index": 25,
+    "pointer_offset": 49441320,
+    "original_va": 5409761632,
+    "label": "Flight controls aileron/elevator/rudder",
+    "chinese": "飞行操纵副翼／升降舵／方向舵"
+  },
+  {
+    "index": 26,
+    "pointer_offset": 49441328,
+    "original_va": 5409761672,
+    "label": "Trim, flaps, slats & speedbrakes",
+    "chinese": "配平、襟翼、缝翼与减速板"
+  },
+  {
+    "index": 27,
+    "pointer_offset": 49441336,
+    "original_va": 5409761712,
+    "label": "Gear & brakes",
+    "chinese": "起落架与刹车"
+  },
+  {
+    "index": 28,
+    "pointer_offset": 49441344,
+    "original_va": 5409761728,
+    "label": "Other flight controls",
+    "chinese": "其他飞行操纵"
+  },
+  {
+    "index": 29,
+    "pointer_offset": 49441352,
+    "original_va": 5409761752,
+    "label": "Wing sweep & thrust vectoring",
+    "chinese": "机翼后掠与推力矢量"
+  },
+  {
+    "index": 30,
+    "pointer_offset": 49441360,
+    "original_va": 5409761784,
+    "label": "Fuel tank source per engine",
+    "chinese": "各发动机供油来源油箱"
+  },
+  {
+    "index": 31,
+    "pointer_offset": 49441368,
+    "original_va": 5409761816,
+    "label": "Electric fuel pump on/off",
+    "chinese": "电动燃油泵开关"
+  },
+  {
+    "index": 32,
+    "pointer_offset": 49441376,
+    "original_va": 5409761848,
+    "label": "Igniter on/off",
+    "chinese": "点火器开关"
+  },
+  {
+    "index": 33,
+    "pointer_offset": 49441384,
+    "original_va": 5409761864,
+    "label": "Magneto setting",
+    "chinese": "磁电机设定"
+  },
+  {
+    "index": 34,
+    "pointer_offset": 49441392,
+    "original_va": 5409761880,
+    "label": "FADEC on/off",
+    "chinese": "FADEC 开关"
+  },
+  {
+    "index": 35,
+    "pointer_offset": 49441400,
+    "original_va": 5409761896,
+    "label": "Throttle governor on/off",
+    "chinese": "油门调速器开关"
+  },
+  {
+    "index": 36,
+    "pointer_offset": 49441408,
+    "original_va": 5409761928,
+    "label": "Starter timeout",
+    "chinese": "起动机超时"
+  },
+  {
+    "index": 37,
+    "pointer_offset": 49441416,
+    "original_va": 5409761944,
+    "label": "Start fuel flow ratio",
+    "chinese": "起动供油比例"
+  },
+  {
+    "index": 38,
+    "pointer_offset": 49441424,
+    "original_va": 5409761968,
+    "label": "Idle speed low/high",
+    "chinese": "低／高慢车转速"
+  },
+  {
+    "index": 39,
+    "pointer_offset": 49441432,
+    "original_va": 5409761992,
+    "label": "Throttle (commanded)",
+    "chinese": "油门指令值"
+  },
+  {
+    "index": 40,
+    "pointer_offset": 49441440,
+    "original_va": 5409762016,
+    "label": "Throttle (actual)",
+    "chinese": "油门实际值"
+  },
+  {
+    "index": 41,
+    "pointer_offset": 49441448,
+    "original_va": 5409762040,
+    "label": "Mixture setting",
+    "chinese": "混合气设定"
+  },
+  {
+    "index": 42,
+    "pointer_offset": 49441456,
+    "original_va": 5409762056,
+    "label": "Carburetor heat setting",
+    "chinese": "化油器加热设定"
+  },
+  {
+    "index": 43,
+    "pointer_offset": 49441464,
+    "original_va": 5409762080,
+    "label": "Cowl flap setting",
+    "chinese": "整流罩通风片设定"
+  },
+  {
+    "index": 44,
+    "pointer_offset": 49441472,
+    "original_va": 5409762104,
+    "label": "Engine feather, normal, beta, & reverse",
+    "chinese": "发动机顺桨、正常、地面桨距与反推"
+  },
+  {
+    "index": 45,
+    "pointer_offset": 49441480,
+    "original_va": 5409762144,
+    "label": "Propeller setting",
+    "chinese": "螺旋桨设定"
+  },
+  {
+    "index": 46,
+    "pointer_offset": 49441488,
+    "original_va": 5409000160,
+    "label": "Afterburner",
+    "chinese": "加力燃烧室"
+  },
+  {
+    "index": 47,
+    "pointer_offset": 49441496,
+    "original_va": 5409762164,
+    "label": "N1",
+    "chinese": "低压转子转速 N1"
+  },
+  {
+    "index": 48,
+    "pointer_offset": 49441504,
+    "original_va": 5409762168,
+    "label": "N2",
+    "chinese": "高压转子转速 N2"
+  },
+  {
+    "index": 49,
+    "pointer_offset": 49441512,
+    "original_va": 5409762176,
+    "label": "Manifold pressure (MPR)",
+    "chinese": "进气歧管压力 MPR"
+  },
+  {
+    "index": 50,
+    "pointer_offset": 49441520,
+    "original_va": 5409762200,
+    "label": "Pressure ratio (EPR)",
+    "chinese": "发动机压比 EPR"
+  },
+  {
+    "index": 51,
+    "pointer_offset": 49441528,
+    "original_va": 5409762224,
+    "label": "Fuel flow (FF)",
+    "chinese": "燃油流量 FF"
+  },
+  {
+    "index": 52,
+    "pointer_offset": 49441536,
+    "original_va": 5409762240,
+    "label": "SFC (lb/hp-hr or lb/lb-hr)",
+    "chinese": "耗油率（磅／马力·时或磅／磅推力·时）"
+  },
+  {
+    "index": 53,
+    "pointer_offset": 49441544,
+    "original_va": 5409762272,
+    "label": "Turbine inlet temperature (ITT)",
+    "chinese": "涡轮进口温度 ITT"
+  },
+  {
+    "index": 54,
+    "pointer_offset": 49441552,
+    "original_va": 5409762304,
+    "label": "Exhaust gas temperature (EGT)",
+    "chinese": "排气温度 EGT"
+  },
+  {
+    "index": 55,
+    "pointer_offset": 49441560,
+    "original_va": 5409762336,
+    "label": "Cylinder head temperature (CHT)",
+    "chinese": "气缸盖温度 CHT"
+  },
+  {
+    "index": 56,
+    "pointer_offset": 49441568,
+    "original_va": 5409762368,
+    "label": "Oil pressure",
+    "chinese": "滑油压力"
+  },
+  {
+    "index": 57,
+    "pointer_offset": 49441576,
+    "original_va": 5409762384,
+    "label": "Oil temperature",
+    "chinese": "滑油温度"
+  },
+  {
+    "index": 58,
+    "pointer_offset": 49441584,
+    "original_va": 5409762400,
+    "label": "Fuel pressure",
+    "chinese": "燃油压力"
+  },
+  {
+    "index": 59,
+    "pointer_offset": 49441592,
+    "original_va": 5409762416,
+    "label": "Fuel temperature at FCU",
+    "chinese": "燃油控制组件处燃油温度"
+  },
+  {
+    "index": 60,
+    "pointer_offset": 49441600,
+    "original_va": 5409762440,
+    "label": "Electric motor inverter temp",
+    "chinese": "电动机逆变器温度"
+  },
+  {
+    "index": 61,
+    "pointer_offset": 49441608,
+    "original_va": 5409762472,
+    "label": "Electric motor stator A temp",
+    "chinese": "电动机定子 A 温度"
+  },
+  {
+    "index": 62,
+    "pointer_offset": 49441616,
+    "original_va": 5409762504,
+    "label": "Electric motor stator B temp",
+    "chinese": "电动机定子 B 温度"
+  },
+  {
+    "index": 63,
+    "pointer_offset": 49441624,
+    "original_va": 5409762536,
+    "label": "Engine power",
+    "chinese": "发动机功率"
+  },
+  {
+    "index": 64,
+    "pointer_offset": 49441632,
+    "original_va": 5409762552,
+    "label": "Prop shaft power",
+    "chinese": "螺旋桨轴功率"
+  },
+  {
+    "index": 65,
+    "pointer_offset": 49441640,
+    "original_va": 5409762576,
+    "label": "Engine thrust",
+    "chinese": "发动机推力"
+  },
+  {
+    "index": 66,
+    "pointer_offset": 49441648,
+    "original_va": 5409762592,
+    "label": "Engine torque",
+    "chinese": "发动机扭矩"
+  },
+  {
+    "index": 67,
+    "pointer_offset": 49441656,
+    "original_va": 5409762608,
+    "label": "Engine RPM",
+    "chinese": "发动机转速"
+  },
+  {
+    "index": 68,
+    "pointer_offset": 49441664,
+    "original_va": 5409762624,
+    "label": "Propeller torque",
+    "chinese": "螺旋桨扭矩"
+  },
+  {
+    "index": 69,
+    "pointer_offset": 49441672,
+    "original_va": 5409762648,
+    "label": "Propeller RPM",
+    "chinese": "螺旋桨转速"
+  },
+  {
+    "index": 70,
+    "pointer_offset": 49441680,
+    "original_va": 5409762664,
+    "label": "Propeller pitch",
+    "chinese": "螺旋桨桨距"
+  },
+  {
+    "index": 71,
+    "pointer_offset": 49441688,
+    "original_va": 5409762680,
+    "label": "Nozzle output speed for jets",
+    "chinese": "喷气发动机喷口流速"
+  },
+  {
+    "index": 72,
+    "pointer_offset": 49441696,
+    "original_va": 5409762712,
+    "label": "Disc output speed for props",
+    "chinese": "螺旋桨桨盘出口流速"
+  },
+  {
+    "index": 73,
+    "pointer_offset": 49441704,
+    "original_va": 5409762744,
+    "label": "Propwash/jetwash",
+    "chinese": "螺旋桨滑流／喷气流"
+  },
+  {
+    "index": 74,
+    "pointer_offset": 49441712,
+    "original_va": 5409762768,
+    "label": "Prop efficiency to airplane (for cruise)",
+    "chinese": "螺旋桨对飞机的推进效率（巡航）"
+  },
+  {
+    "index": 75,
+    "pointer_offset": 49441720,
+    "original_va": 5409762816,
+    "label": "Prop efficiency to airstream (for hover)",
+    "chinese": "螺旋桨对气流的效率（悬停）"
+  },
+  {
+    "index": 76,
+    "pointer_offset": 49441728,
+    "original_va": 5409762864,
+    "label": "Windmilling drag coeff (Cd)",
+    "chinese": "风车状态阻力系数 Cd"
+  },
+  {
+    "index": 77,
+    "pointer_offset": 49441736,
+    "original_va": 5409762896,
+    "label": "Total vertical thrust vectors",
+    "chinese": "总垂直推力矢量"
+  },
+  {
+    "index": 78,
+    "pointer_offset": 49441744,
+    "original_va": 5409762928,
+    "label": "Total lateral thrust vectors",
+    "chinese": "总横向推力矢量"
+  },
+  {
+    "index": 79,
+    "pointer_offset": 49441752,
+    "original_va": 5409762960,
+    "label": "Pitch cyclic disc tilts",
+    "chinese": "俯仰周期变距桨盘倾角"
+  },
+  {
+    "index": 80,
+    "pointer_offset": 49441760,
+    "original_va": 5409762984,
+    "label": "Roll cyclic disc tilts",
+    "chinese": "滚转周期变距桨盘倾角"
+  },
+  {
+    "index": 81,
+    "pointer_offset": 49441768,
+    "original_va": 5409763008,
+    "label": "Pitch cyclic flapping",
+    "chinese": "俯仰周期变距挥舞"
+  },
+  {
+    "index": 82,
+    "pointer_offset": 49441776,
+    "original_va": 5409763032,
+    "label": "Roll cyclic flapping",
+    "chinese": "滚转周期变距挥舞"
+  },
+  {
+    "index": 83,
+    "pointer_offset": 49441784,
+    "original_va": 5409763056,
+    "label": "Propwash tip swirl speed",
+    "chinese": "桨尖滑流旋涡速度"
+  },
+  {
+    "index": 84,
+    "pointer_offset": 49441792,
+    "original_va": 5409763088,
+    "label": "Rotor slap",
+    "chinese": "旋翼拍击"
+  },
+  {
+    "index": 85,
+    "pointer_offset": 49441800,
+    "original_va": 5409763104,
+    "label": "Aileron deflections 1",
+    "chinese": "副翼偏转 1"
+  },
+  {
+    "index": 86,
+    "pointer_offset": 49441808,
+    "original_va": 5409763128,
+    "label": "Aileron deflections 2",
+    "chinese": "副翼偏转 2"
+  },
+  {
+    "index": 87,
+    "pointer_offset": 49441816,
+    "original_va": 5409763152,
+    "label": "Roll spoiler deflections 1",
+    "chinese": "滚转扰流板偏转 1"
+  },
+  {
+    "index": 88,
+    "pointer_offset": 49441824,
+    "original_va": 5409763184,
+    "label": "Roll spoiler deflections 2",
+    "chinese": "滚转扰流板偏转 2"
+  },
+  {
+    "index": 89,
+    "pointer_offset": 49441832,
+    "original_va": 5409763216,
+    "label": "Elevator deflections",
+    "chinese": "升降舵偏转"
+  },
+  {
+    "index": 90,
+    "pointer_offset": 49441840,
+    "original_va": 5409763240,
+    "label": "Rudder deflections",
+    "chinese": "方向舵偏转"
+  },
+  {
+    "index": 91,
+    "pointer_offset": 49441848,
+    "original_va": 5409763264,
+    "label": "Yaw brake deflections",
+    "chinese": "偏航制动面偏转"
+  },
+  {
+    "index": 92,
+    "pointer_offset": 49441856,
+    "original_va": 5409763288,
+    "label": "Control forces & blown flaps",
+    "chinese": "操纵力与吹气襟翼"
+  },
+  {
+    "index": 93,
+    "pointer_offset": 49441864,
+    "original_va": 5409763320,
+    "label": "Take-Off and landing distance",
+    "chinese": "起飞与着陆距离"
+  },
+  {
+    "index": 94,
+    "pointer_offset": 49441872,
+    "original_va": 5409763352,
+    "label": "Cruise stats",
+    "chinese": "巡航统计"
+  },
+  {
+    "index": 95,
+    "pointer_offset": 49441880,
+    "original_va": 5409763368,
+    "label": "Lift over drag and coefficients",
+    "chinese": "升阻比与气动力系数"
+  },
+  {
+    "index": 96,
+    "pointer_offset": 49441888,
+    "original_va": 5409763400,
+    "label": "Lift and drag",
+    "chinese": "升力与阻力"
+  },
+  {
+    "index": 97,
+    "pointer_offset": 49441896,
+    "original_va": 5409763416,
+    "label": "Gear forces",
+    "chinese": "起落架作用力"
+  },
+  {
+    "index": 98,
+    "pointer_offset": 49441904,
+    "original_va": 5409763432,
+    "label": "Engine forces",
+    "chinese": "发动机作用力"
+  },
+  {
+    "index": 99,
+    "pointer_offset": 49441912,
+    "original_va": 5409763448,
+    "label": "Angular moments",
+    "chinese": "力矩"
+  },
+  {
+    "index": 100,
+    "pointer_offset": 49441920,
+    "original_va": 5409763464,
+    "label": "Ground effect lift (wings)",
+    "chinese": "机翼地面效应升力"
+  },
+  {
+    "index": 101,
+    "pointer_offset": 49441928,
+    "original_va": 5409763496,
+    "label": "Ground effect drag (wings)",
+    "chinese": "机翼地面效应阻力"
+  },
+  {
+    "index": 102,
+    "pointer_offset": 49441936,
+    "original_va": 5409763528,
+    "label": "Ground effect wash (wings)",
+    "chinese": "机翼地面效应下洗"
+  },
+  {
+    "index": 103,
+    "pointer_offset": 49441944,
+    "original_va": 5409763560,
+    "label": "Ground effect lift (stabilizers)",
+    "chinese": "安定面地面效应升力"
+  },
+  {
+    "index": 104,
+    "pointer_offset": 49441952,
+    "original_va": 5409763600,
+    "label": "Ground effect drag (stabilizers)",
+    "chinese": "安定面地面效应阻力"
+  },
+  {
+    "index": 105,
+    "pointer_offset": 49441960,
+    "original_va": 5409763640,
+    "label": "Ground effect wash (stabilizers)",
+    "chinese": "安定面地面效应下洗"
+  },
+  {
+    "index": 106,
+    "pointer_offset": 49441968,
+    "original_va": 5409763680,
+    "label": "Wash ratio from ground effect (rotors)",
+    "chinese": "旋翼地面效应下洗比"
+  },
+  {
+    "index": 107,
+    "pointer_offset": 49441976,
+    "original_va": 5409763720,
+    "label": "Wash ratio from vortex ring (rotors)",
+    "chinese": "旋翼涡环状态下洗比"
+  },
+  {
+    "index": 108,
+    "pointer_offset": 49441984,
+    "original_va": 5409763760,
+    "label": "Wash ratio through disc (rotors)",
+    "chinese": "旋翼桨盘下洗比"
+  },
+  {
+    "index": 109,
+    "pointer_offset": 49441992,
+    "original_va": 5409763800,
+    "label": "Wing lift",
+    "chinese": "机翼升力"
+  },
+  {
+    "index": 110,
+    "pointer_offset": 49442000,
+    "original_va": 5409763816,
+    "label": "Wing drag",
+    "chinese": "机翼阻力"
+  },
+  {
+    "index": 111,
+    "pointer_offset": 49442008,
+    "original_va": 5409763832,
+    "label": "Stabilizer lift",
+    "chinese": "安定面升力"
+  },
+  {
+    "index": 112,
+    "pointer_offset": 49442016,
+    "original_va": 5409763848,
+    "label": "Stabilizer drag",
+    "chinese": "安定面阻力"
+  },
+  {
+    "index": 113,
+    "pointer_offset": 49442024,
+    "original_va": 5409763864,
+    "label": "Landing gear deployment",
+    "chinese": "起落架收放"
+  },
+  {
+    "index": 114,
+    "pointer_offset": 49442032,
+    "original_va": 5409763888,
+    "label": "Landing gear steering",
+    "chinese": "起落架转向"
+  },
+  {
+    "index": 115,
+    "pointer_offset": 49442040,
+    "original_va": 5409763912,
+    "label": "Landing gear deflection",
+    "chinese": "起落架偏转"
+  },
+  {
+    "index": 116,
+    "pointer_offset": 49442048,
+    "original_va": 5409763936,
+    "label": "Landing gear brake temperature ratio",
+    "chinese": "起落架刹车温度比例"
+  },
+  {
+    "index": 117,
+    "pointer_offset": 49442056,
+    "original_va": 5409763976,
+    "label": "Landing gear vertical force",
+    "chinese": "起落架垂直力"
+  },
+  {
+    "index": 118,
+    "pointer_offset": 49442064,
+    "original_va": 5409764008,
+    "label": "Landing gear side force",
+    "chinese": "起落架侧向力"
+  },
+  {
+    "index": 119,
+    "pointer_offset": 49442072,
+    "original_va": 5409764032,
+    "label": "Landing gear braking force",
+    "chinese": "起落架制动力"
+  },
+  {
+    "index": 120,
+    "pointer_offset": 49442080,
+    "original_va": 5409764064,
+    "label": "Electrical & solar systems",
+    "chinese": "电气与太阳能系统"
+  },
+  {
+    "index": 121,
+    "pointer_offset": 49442088,
+    "original_va": 5409764096,
+    "label": "Inverter on/off",
+    "chinese": "变流器开关"
+  },
+  {
+    "index": 122,
+    "pointer_offset": 49442096,
+    "original_va": 5409764112,
+    "label": "Generator on/off",
+    "chinese": "发电机开关"
+  },
+  {
+    "index": 123,
+    "pointer_offset": 49442104,
+    "original_va": 5409764136,
+    "label": "Generator amperage",
+    "chinese": "发电机电流"
+  },
+  {
+    "index": 124,
+    "pointer_offset": 49442112,
+    "original_va": 5409764160,
+    "label": "Battery on/off",
+    "chinese": "蓄电池开关"
+  },
+  {
+    "index": 125,
+    "pointer_offset": 49442120,
+    "original_va": 5409764176,
+    "label": "Battery watt-hours",
+    "chinese": "蓄电池能量（瓦时）"
+  },
+  {
+    "index": 126,
+    "pointer_offset": 49442128,
+    "original_va": 5409764200,
+    "label": "Battery amperage",
+    "chinese": "蓄电池电流"
+  },
+  {
+    "index": 127,
+    "pointer_offset": 49442136,
+    "original_va": 5409764224,
+    "label": "Battery voltage",
+    "chinese": "蓄电池电压"
+  },
+  {
+    "index": 128,
+    "pointer_offset": 49442144,
+    "original_va": 5409764240,
+    "label": "Battery temperature",
+    "chinese": "蓄电池温度"
+  },
+  {
+    "index": 129,
+    "pointer_offset": 49442152,
+    "original_va": 5409764264,
+    "label": "Anti-ice switches",
+    "chinese": "防冰开关"
+  },
+  {
+    "index": 130,
+    "pointer_offset": 49442160,
+    "original_va": 5409764288,
+    "label": "Anti-ice engine switches",
+    "chinese": "发动机防冰开关"
+  },
+  {
+    "index": 131,
+    "pointer_offset": 49442168,
+    "original_va": 5409764320,
+    "label": "Ice Accretion 1",
+    "chinese": "积冰 1"
+  },
+  {
+    "index": 132,
+    "pointer_offset": 49442176,
+    "original_va": 5409764336,
+    "label": "Ice Accretion 2",
+    "chinese": "积冰 2"
+  },
+  {
+    "index": 133,
+    "pointer_offset": 49442184,
+    "original_va": 5409764352,
+    "label": "Autopilot, flight director, & HUD switches",
+    "chinese": "自动驾驶、飞行指引与平视显示开关"
+  },
+  {
+    "index": 134,
+    "pointer_offset": 49442192,
+    "original_va": 5409764400,
+    "label": "Autopilot armed status",
+    "chinese": "自动驾驶预位状态"
+  },
+  {
+    "index": 135,
+    "pointer_offset": 49442200,
+    "original_va": 5409764424,
+    "label": "Autopilot modes",
+    "chinese": "自动驾驶模式"
+  },
+  {
+    "index": 136,
+    "pointer_offset": 49442208,
+    "original_va": 5409764440,
+    "label": "Autopilot values",
+    "chinese": "自动驾驶设定值"
+  },
+  {
+    "index": 137,
+    "pointer_offset": 49442216,
+    "original_va": 5409764464,
+    "label": "COM 1 & COM 2 frequency",
+    "chinese": "通信 1 与通信 2 频率"
+  },
+  {
+    "index": 138,
+    "pointer_offset": 49442224,
+    "original_va": 5409764488,
+    "label": "NAV 1 & NAV 2 frequency",
+    "chinese": "导航 1 与导航 2 频率"
+  },
+  {
+    "index": 139,
+    "pointer_offset": 49442232,
+    "original_va": 5409764512,
+    "label": "NAV 1 & NAV 2 Omni-Bearing Selector (OBS)",
+    "chinese": "导航 1 与导航 2 航道选择 OBS"
+  },
+  {
+    "index": 140,
+    "pointer_offset": 49442240,
+    "original_va": 5409764560,
+    "label": "Pilot NAV 1 deflections",
+    "chinese": "机长导航 1 偏离量"
+  },
+  {
+    "index": 141,
+    "pointer_offset": 49442248,
+    "original_va": 5409764584,
+    "label": "Copilot NAV 1 deflections",
+    "chinese": "副驾驶导航 1 偏离量"
+  },
+  {
+    "index": 142,
+    "pointer_offset": 49442256,
+    "original_va": 5409764616,
+    "label": "Pilot NAV 2 deflections",
+    "chinese": "机长导航 2 偏离量"
+  },
+  {
+    "index": 143,
+    "pointer_offset": 49442264,
+    "original_va": 5409764640,
+    "label": "Copilot NAV 2 deflections",
+    "chinese": "副驾驶导航 2 偏离量"
+  },
+  {
+    "index": 144,
+    "pointer_offset": 49442272,
+    "original_va": 5409764672,
+    "label": "ADF 1 & ADF 2 status",
+    "chinese": "ADF 1 与 ADF 2 状态"
+  },
+  {
+    "index": 145,
+    "pointer_offset": 49442280,
+    "original_va": 5409764696,
+    "label": "DME status",
+    "chinese": "测距设备 DME 状态"
+  },
+  {
+    "index": 146,
+    "pointer_offset": 49442288,
+    "original_va": 5409764712,
+    "label": "GPS status",
+    "chinese": "GPS 状态"
+  },
+  {
+    "index": 147,
+    "pointer_offset": 49442296,
+    "original_va": 5409764728,
+    "label": "Transponder status",
+    "chinese": "应答机状态"
+  },
+  {
+    "index": 148,
+    "pointer_offset": 49442304,
+    "original_va": 5409764752,
+    "label": "Marker status",
+    "chinese": "指点信标状态"
+  },
+  {
+    "index": 149,
+    "pointer_offset": 49442312,
+    "original_va": 5409764768,
+    "label": "General annunciators 1",
+    "chinese": "通用告警 1"
+  },
+  {
+    "index": 150,
+    "pointer_offset": 49442320,
+    "original_va": 5409764792,
+    "label": "General annunciators 2",
+    "chinese": "通用告警 2"
+  },
+  {
+    "index": 151,
+    "pointer_offset": 49442328,
+    "original_va": 5409764816,
+    "label": "Engine annunciators",
+    "chinese": "发动机告警"
+  },
+  {
+    "index": 152,
+    "pointer_offset": 49442336,
+    "original_va": 5409764840,
+    "label": "Electrical switches",
+    "chinese": "电气开关"
+  },
+  {
+    "index": 153,
+    "pointer_offset": 49442344,
+    "original_va": 5409764864,
+    "label": "EFIS switches",
+    "chinese": "电子飞行仪表系统开关"
+  },
+  {
+    "index": 154,
+    "pointer_offset": 49442352,
+    "original_va": 5409764880,
+    "label": "Clutch & artificial stability switches",
+    "chinese": "离合器与人工增稳开关"
+  },
+  {
+    "index": 155,
+    "pointer_offset": 49442360,
+    "original_va": 5409764920,
+    "label": "Miscellaneous switches",
+    "chinese": "其他开关"
+  },
+  {
+    "index": 156,
+    "pointer_offset": 49442368,
+    "original_va": 5409764944,
+    "label": "Weapon status",
+    "chinese": "武器状态"
+  },
+  {
+    "index": 157,
+    "pointer_offset": 49442376,
+    "original_va": 5409764960,
+    "label": "Pressurization status",
+    "chinese": "客舱增压状态"
+  },
+  {
+    "index": 158,
+    "pointer_offset": 49442384,
+    "original_va": 5409764984,
+    "label": "APU & GPU status",
+    "chinese": "辅助动力／地面电源状态"
+  },
+  {
+    "index": 159,
+    "pointer_offset": 49442392,
+    "original_va": 5409765008,
+    "label": "Radar status",
+    "chinese": "雷达状态"
+  },
+  {
+    "index": 160,
+    "pointer_offset": 49442400,
+    "original_va": 5409765024,
+    "label": "Hydraulic status",
+    "chinese": "液压状态"
+  },
+  {
+    "index": 161,
+    "pointer_offset": 49442408,
+    "original_va": 5409765048,
+    "label": "All planes latitude",
+    "chinese": "所有飞机纬度"
+  },
+  {
+    "index": 162,
+    "pointer_offset": 49442416,
+    "original_va": 5409765072,
+    "label": "All planes longitude",
+    "chinese": "所有飞机经度"
+  },
+  {
+    "index": 163,
+    "pointer_offset": 49442424,
+    "original_va": 5409765096,
+    "label": "All planes altitude",
+    "chinese": "所有飞机高度"
+  },
+  {
+    "index": 164,
+    "pointer_offset": 49442432,
+    "original_va": 5409765120,
+    "label": "Flight plan legs",
+    "chinese": "飞行计划航段"
+  },
+  {
+    "index": 165,
+    "pointer_offset": 49442440,
+    "original_va": 5409765144,
+    "label": "Warning status",
+    "chinese": "警告状态"
+  },
+  {
+    "index": 166,
+    "pointer_offset": 49442448,
+    "original_va": 5409765160,
+    "label": "Last failure",
+    "chinese": "最近一次故障"
+  },
+  {
+    "index": 167,
+    "pointer_offset": 49442456,
+    "original_va": 5409765176,
+    "label": "Camera location",
+    "chinese": "摄像机位置"
+  },
+  {
+    "index": 168,
+    "pointer_offset": 49442464,
+    "original_va": 5409765192,
+    "label": "Ground elevation",
+    "chinese": "地面标高"
+  },
+  {
+    "index": 169,
+    "pointer_offset": 49442472,
+    "original_va": 5409765216,
+    "label": "Hardware options",
+    "chinese": "硬件选项"
+  },
+  {
+    "index": 170,
+    "pointer_offset": 49442480,
+    "original_va": 5409765240,
+    "label": "Motion platform stats",
+    "chinese": "运动平台统计"
+  },
+  {
+    "index": 171,
+    "pointer_offset": 49442488,
+    "original_va": 5409765264,
+    "label": "Joystick raw axis deflections",
+    "chinese": "摇杆原始轴偏转"
+  },
+  {
+    "index": 172,
+    "pointer_offset": 49442496,
+    "original_va": 5409765296,
+    "label": "FBW params",
+    "chinese": "电传飞控参数"
+  }
+]

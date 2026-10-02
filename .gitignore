@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.exe
+*.dll
+*.zip
+*.log
+.env*
+backup/
+.xplane12-zh-cn-backup/
+Output/
+Resources/
+Chinese.txt
